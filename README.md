@@ -1,4 +1,4 @@
-# Student Performance Analyzer
+# AI Student Perfomance Model
 
 ## Project Description
 This project analyzes student study data and predicts exam scores based on hours studied using a machine learning model.
