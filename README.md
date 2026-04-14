@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Student Performance Analyzer
+=======
+# AI Student Perfomance Model
+>>>>>>> 5abd020ffe2b3c7d48f8323f1adf4e1366e51957
 
 ## Project Description
 This project analyzes student study data and predicts exam scores based on hours studied using a machine learning model.
@@ -19,4 +23,8 @@ pip install pandas numpy matplotlib scikit-learn
 python analyzer.py
 
 3. Run the machine learning model:
+<<<<<<< HEAD
 python model.py
+=======
+python model.py
+>>>>>>> 5abd020ffe2b3c7d48f8323f1adf4e1366e51957
